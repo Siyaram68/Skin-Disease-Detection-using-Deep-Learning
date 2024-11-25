@@ -8,10 +8,10 @@ This system is designed to work as a decision-support tool and is not a substitu
 
 **Features**
 
-🖼️ Image Classification: Detect multiple skin disease types from input images.
-🧠 Deep Learning Model: Built using convolutional neural networks (CNNs) for high accuracy.
-📊 Performance Metrics: Includes accuracy, precision, recall, and F1-score.
-🌐 User Interface (Optional): A simple interface to upload images for detection (if applicable).
+- 🖼️ Image Classification: Detect multiple skin disease types from input images.
+- 🧠 Deep Learning Model: Built using convolutional neural networks (CNNs) for high accuracy.
+- 📊 Performance Metrics: Includes accuracy, precision, recall, and F1-score.
+- 🌐 User Interface (Optional): A simple interface to upload images for detection (if applicable).
 
 **Technologies Used**
 

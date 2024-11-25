@@ -1,4 +1,4 @@
-#🩺 Skin Disease Detection using Deep Learning
+# 🩺 Skin Disease Detection using Deep Learning
 
 **Overview**
 

@@ -49,24 +49,23 @@ Input images are processed, and the model outputs the predicted disease category
 
 2. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. **Run the model:**
- 
-  3.1 **Train the Model:**
+  3.1  **Train the Model:**
+
+   ```bash
+               python train.py
   
-      ```bash
-    python train.py
-  
-  3.2 **Test the Model:**
-     
-      ```bash
-    python test.py
-  
-  3.3 **Run Predictions:**
+3.2 **Test the Model:**
     
     ```bash
-     python predict.py --image path/to/image.jpg
+              python test.py
+ 
+ 3.3 **Run Predictions:**
+    
+     ```bash
+                python predict.py --image path/to/image.jpg
 
 **Results**
 
